@@ -21,18 +21,8 @@
 *   **CSS3**: Custom styling, CSS Grid/Flexbox, Animations, Media Queries.
 *   **Google Fonts**: Playfair Display (Headings) and Montserrat (Body).
 
-## 🚀 How to Run Locally
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/TanviAcharya1712/Frontend-Acharya-Jewel.git
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd Frontend-Acharya-Jewel
-    ```
-3.  Open `index.html` in your preferred browser.
-
+## Live Link
+[Visit Acharya Jewel](https://tanviacharya1712.github.io/Frontend-Acharya-Jewel/)
 ## 📂 Project Structure
 
 ```
